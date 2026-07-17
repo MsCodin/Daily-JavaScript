@@ -1,2 +1,2 @@
 # Daily-JavaScript
-Documenting my journey to JavaScript mastery. A structured log of concepts, challenges, and hands-on practice.
+Documenting my journey to JavaScript mastery. Through challenges and hands-on practice provided by exercism.org.
